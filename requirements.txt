@@ -1,0 +1,7 @@
+chainlit
+fastapi
+uvicorn
+msal
+python-jose
+python-dotenv
+requests
